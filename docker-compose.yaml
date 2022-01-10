@@ -13,5 +13,3 @@ services:
             - ./grafana-datasource.yaml:/etc/grafana/provisioning/datasources/datasource.yaml
     ports:
       - 3000:3000
-    links:
-            - prometheus
