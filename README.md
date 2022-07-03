@@ -1,3 +1,3 @@
 # Description
 
-Docker compose setup with Prometheus + Grafana
+Docker compose setup with Prometheus + Grafana. 
